@@ -1,0 +1,5 @@
+```yaml
+name: AntiNetherite
+version: 1.0
+main: com.yourname.antinetherite.AntiNetherite
+api-version: '1.21'
